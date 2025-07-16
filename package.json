@@ -1,12 +1,29 @@
 {
   "name": "meet-sheet",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "零门槛、结构清晰、AI驱动的会议记录智能转换工具",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhengshui/meet-sheet.git"
+  },
+  "keywords": [
+    "meeting",
+    "ai",
+    "table",
+    "convert",
+    "nextjs",
+    "openai",
+    "deepseek"
+  ],
+  "author": "zhengshui",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next build && next export"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.1.1",

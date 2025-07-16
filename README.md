@@ -79,12 +79,14 @@ npm start
 
 ### Vercel部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/meet-sheet)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/zhengshui/meet-sheet)
 
 1. 点击上方按钮进行部署
 2. 连接您的GitHub仓库
-3. 配置环境变量
+3. 配置环境变量（可选）
 4. 完成部署
+
+**快速部署链接**: [https://vercel.com/new/clone?repository-url=https://github.com/zhengshui/meet-sheet](https://vercel.com/new/clone?repository-url=https://github.com/zhengshui/meet-sheet)
 
 ### 环境变量配置（可选）
 

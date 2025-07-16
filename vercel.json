@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "regions": ["hkg1", "sin1", "nrt1"],
+  "env": {
+    "DEFAULT_AI_PROVIDER": "@default_ai_provider",
+    "DEFAULT_OPENAI_API_KEY": "@default_openai_api_key",
+    "DEFAULT_DEEPSEEK_API_KEY": "@default_deepseek_api_key"
+  }
+}
